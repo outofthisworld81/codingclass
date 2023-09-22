@@ -1,0 +1,38 @@
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.b1
+{background-color: blue;}
+.r1
+{ color: red;}
+.r2
+{background-color: red;}
+.b2
+{color: blue;}
+.p1
+{background-color: purple;}
+.g1
+{color: green;}
+.g2
+{background-color: green;}
+.p2
+{color: purple;}
+.y1
+{background-color: yellow;}
+.bl1
+{color:black;}
+.t
+{width: 100%;}
+.center
+{text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: fantasy,}
+.color:hover {
+color: skyblue;
+transition: color 0.3s ease; }
+.one{
+text-align:center;
+}
+        
